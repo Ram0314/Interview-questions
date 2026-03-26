@@ -1,0 +1,30 @@
+SIGMOID INTERVIEW 
+
+1.write and explain full cicd pipeline from dv to deployment?
+2.explain pod .yml and mention resource quota ?
+3.what is trivy and what type of vulnerabilities you faced?
+4.Explain git branching strategy in your project?
+5.write a code for terraform to create a ec2 ?
+6.explain deployment strategies and blue nd green, canary deployment?
+7.write S3 bucket policy and what are the polices ?
+8.Explain Vpc?
+9.diff between lambda and ec2?
+10.iam permission?
+11.write docker file for java and NodeJS to build a image?
+12.how did u find error in on top 10 lines in a file?
+13.how do you secure the .tf configuration file?
+14.What is RDS and have you worked in sql ?
+15. What are the rds system  in aws inbuilt?
+16. Explain Argocd?
+17.Why lambda is serverless ?
+18.How did u reduce the dockerfile ?
+19. What is namespace and why we use a namespace uses?
+
+
+2 nd round
+
+1.Explain branching strategy and suppose all the commits are success in dev and trigger in cicd.then how you will trigger in prod .how will you trigger ?
+2.why DynamoDB use and purpose?
+3. Bash scripting?
+4. what are the day to day activates in your project ?
+5. if any failure what type of alerts you will get ?
