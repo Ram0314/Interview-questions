@@ -1,0 +1,25 @@
+Explain CI\CD set up in your project from Scratch?
+Difference btw CMD and Entrypoint?
+Explain Docker compose ?
+Can you tell tej docker fiel parameters?
+How will you reduce the docker size?
+What is k8s service ?
+How will you maintain high avaialbility in K8s?
+Suupose you will create a 3 replicas but i donot need 2 replicas how will do and which serveice did u use?
+How would you store crendiatls ?
+expalin deployed environments in kubernetes, many environments need to deploy so which tool we can user deployment?
+Explain Terraform and daily which commands did u use ?
+Suppose you create 3 resources but how does teraform knows which one will go first?
+How did you manage the work space?
+Where Do We Maintain Terraform Workspaces?
+What is github actions?
+Deployment startegery? blue green and rool back ?
+Created a New Feature and Deployed in Kubernetes – What Happens?
+Explain types of load balancer?
+which Load Balancer will use for Frontend and Backend?
+kubernetes storing the secret whcih encryption will use? 
+Explain demoon sets?
+What are the ways Ways to Connect to a VM?
+Expalin shared library?
+Ho will you collbatuon with developers with frequently or regulatkuy 
+Automate Infrastructure Provisioning by 50%
