@@ -1,0 +1,13 @@
+1.Explain briefly about ci\cd in your project ?
+2.what is blackduck and why we use and differce between and sonarcube?
+3.What are the yml files required to deploy  application in k8s?
+4.What is loki?
+5.Did you set up alaerts in Grafana?
+5.What is region and avaiablity in aws?
+6. Write a script in terraform to create EC2 service?
+7. Pipeline was working yesterday but today it is not working. How do you resolve it?
+8. What CI/CD Pipeline Errors and Issues
+9. How will troubleshhot cicd failure?
+10. Web application requires a server but you don’t want to manage infrastructure. What would you use?
+11. Dockefile Creation?
+12.Kubernestes archoture?
