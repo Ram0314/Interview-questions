@@ -1,0 +1,24 @@
+1.What is ci\cd?
+2. waht is shared library?
+3. wjy we use nexus?
+4. Jenkins pipeline is taking too much time. What will you do??
+5. Docker build is taking too much time. How do you reduce it??
+6.What is AWS Lambda?
+7. What is VPCendpoint?
+8. waht is terraform drift and lint?
+----------------------------------------------------
+----------------2nd round client---------------------------------
+-----------------------------------------
+1.what is Shared Libraries in Jenkins ?
+2. what are the types of shared libraries?
+3. Explain Jenkins Shared Library – src and vars Folders?
+4. Difference Between git fetch and git pull?
+5. Revert a Commit and Revert it Back (Restore the Changes) what are the steps?
+6.What is Kubernetes ConfigMap?
+7.what are the steps for automating in maven in pipeline?
+8. In Which Stage SonarQube Runs in CI/CD Pipeline?
+9. Types of Issues SonarQube Detects?
+10.How Can We Reduce Automation Failures in CI/CD??
+11.How Did You Improve Reliability in CI/CD?
+-----------------------------------------------
+
