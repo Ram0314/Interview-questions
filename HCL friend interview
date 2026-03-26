@@ -1,0 +1,30 @@
+1. Introduce yourself
+2. Project Overview and role
+3. Which team you have worked Dev/admin/support
+4. What your achievements in last 4 years in as a devops Engineer5.  who is your client (project) and explain about your client Services 
+6. Rate your self on Docker and How do you build image explain the process in your current project 
+7. What Persistent Volumes in docker, How it works. If container crash how do secure the container Volume 
+8. Do you know how to write  docker, if yes explain about briefly 
+9. Curl not available in the container how do you download or get data from internet 
+10. What is container 
+11. Docker lifecycle  and what docker hub ? Why docker hub 
+12. Scenerio - you have already deployed v1.0. now you need upgrade image from v1.0 to v1.1 . How you achieve this in docker  with industry best practices 
+13. Difference cmd and entry point 14.  Can you please explain docker file and are the steps you will take to reduce image size
+15. Docker default path
+16. Do you shell scripting, python 
+17. Did you build from scratch  promotheos and grafana, if yes how did you set up explain 
+18. What happen when you give terraform init
+19. Are you able write terraform file for VPC 
+20. How do use and store .tf state file 
+21. You need to create 200 ec2 instances and download docker in 100 ec2 instances how will you do that
+22. Recently  did you faced any issue on K8's
+23. Pod fails, How do get alerts and how you can resolve 
+24. Systemctl why we use
+25. Do you know how to set up docker 
+26. What stateful and what is headless
+27. What helm chart, why we need to use helm chart, did you created helm charts 
+28. WHAT IS SERVICE account and user account 
+29. AWS - route 53 why , Ec2 stages, S3 features, VPC 
+30. Cloud watch , Cloud formation 
+31. Difference between ansible& terraform 
+32. what are deployment in K8's, which one you have worked
