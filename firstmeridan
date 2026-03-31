@@ -24,3 +24,37 @@ Expalin shared library?
 Ho will you collbatuon with developers with frequently or regulatkuy 
 Automate Infrastructure Provisioning by 50%
 Have you workd on RBAC?
+--------------------------------------------------------------------------------------------
+               ------2nd reound with client bezz-------------------
+-----------------------------------------------------------------------------------
+1. In Aws, Ec2  Web App become slow how will you improve performance?
+2. Where we can place the load balancer and what are the types of load balancers?
+3.suppose instances in Private Subnet Can’t Download Patches – What to Do?
+4. Explain Autoscaling Groups?
+5. In Kubernetes some some pods are getting evicted, node is under pressure how can resolve?
+6. Suppose you deploy a new but is is not working how? which method did u use?
+7. Write a deployment yml file and explain?
+8. Application experiences unexpected traffic spikes, some pods cannot handle? how did you relsove that?
+9. in K8s pod gets deleted, recreated but app got data how ? 
+10.How Can We Fix Data Loss When Pod Gets Recreated?
+11.In Kubernetes app  works inside the cluster, but outside it can't work which service did u use to expose outside?
+12. Which secrets management did u use?
+13.In datadog how Debug Missing Metrics?
+14. Metrics not showing at all – What to Do?
+15. your team is getting unnecessary data dog alerts how did you resolve this which important are not?
+16.How to connect Kubernetes with datadog?
+17.How metrics Go from Kubernetes to data dog?
+18.Test a login page every 5 minutes? how
+19.Explain CI\Cd from scratch ? and which declarative pipeline did you usein your project?
+20.How do you configure argocd with Kubernetes cluster? and if it goes to out of sync what you will do?
+21.Build fails after code merge what you do?
+22.In K8s pod is getting crash loop back off error. How will you troubleshot?
+23.Jenkins pipeline failed due to credentials error?
+24. How do you configure Kubernetes with Jenkins?
+25. Jenkins ui becomes slow, cpu is 100% how do you diagnose and improve?
+26. Docker – Why Do We Get OOM Kill?
+27. Docker Container Restarting Continuously – What to Do?
+28.application suddenly runs outof diskspace, docker container not working how can you relsove?
+29. app works locally, but fails inside the docker?
+30. Difference between multistage and single stage docker file?
+31. Have worked on CloudWatch and cloud trials?
